@@ -61,8 +61,6 @@ Herramienta de IA usada: Gemini
 
 ## Ejercicio 6: Del prompt basico al profesional
 
-## Ejercicio 6: Del prompt basico al profesional
-
 ### 1. Evaluación del Prompt Profesional
 
 | Qué revisar                                            | Cumple (Sí / No) |
